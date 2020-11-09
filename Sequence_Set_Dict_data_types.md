@@ -26,7 +26,7 @@ We'll see some more operations on strings followed by Tuple, Set and Dict in thi
 >>> book[10]
 Traceback (most recent call last):
   File "<stdin>", line 1, in <module>
-IndexError: string index out of range
+IndexError: string index out o
 
 >>> book[2:6]
 'chem'
