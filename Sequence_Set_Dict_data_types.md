@@ -14,7 +14,6 @@ We'll see some more operations on strings followed by Tuple, Set and Dict in thi
 
 * The indexing we saw for lists can be applied to strings as well
     * As strings are immutable, they can't be modified like lists though
-
 ```python
 >>> book = "Alchemist"
 >>> book[0]
