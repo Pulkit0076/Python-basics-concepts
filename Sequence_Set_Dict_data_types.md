@@ -1,7 +1,7 @@
 # <a name="sequence-data-types"></a>Sequence, Set and Dict data types
 
 * [Strings](#strings)
-* [Tuples](#tuples)
+* [Tuples](#tuples
 * [Set](#set)
 * [Dictionary](#dictionary)
 
