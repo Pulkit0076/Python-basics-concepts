@@ -6,7 +6,7 @@
 * [Dictionary](#dictionary)
 
 We have already seen Sequence types in previous chapters - strings, ranges and lists. Tuple is another sequence type  
-We'll see some more operations on strings followed by Tuple, Set and Dict in this chapter
+We'll see some more operations on strings followed by Tuple, Set and Dict in this cha
 
 <br>
 
