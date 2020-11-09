@@ -12,7 +12,7 @@ We'll see some more operations on strings followed by Tuple, Set and Dict in thi
 
 ### <a name="strings"></a>Strings
 
-* The indexing we saw for lists can be applied to strings as well
+* The indexing we saw for lists can be applied to strings
     * As strings are immutable, they can't be modified like lists though
 ```python
 >>> book = "Alchemist"
