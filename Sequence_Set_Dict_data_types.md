@@ -422,5 +422,5 @@ Rajan: 79
 * [Python docs - dict](https://docs.python.org/3/library/stdtypes.html#dict)
 * [Python docs - pprint](https://docs.python.org/3/library/pprint.html)
 * [detailed tutorial on dict](http://www.sharats.me/posts/the-python-dictionary/)
-* [Using dict to eliminate duplicates while retaining order](https://twitter.com/raymondh/status/944125570
+* [Using dict to eliminate duplicates while retaining order](https://twitter.com/raymondh/status/9
 
