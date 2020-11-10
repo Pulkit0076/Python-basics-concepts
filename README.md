@@ -26,7 +26,7 @@ Introduction to Python - Syntax, working with Shell commands, Files, Text Proces
     * Strings, Tuples, Set, Dictionary
 * [Text Processing](./Text_Processing.md)
     * String methods, Regular Expressions, Pattern matching and extraction, Search and Replace, Compiling Regular Expressions, Further Reading on Regular Expressions
-* [File handling](./File_handling.md)
+* [File handling](./File_handling_in_python.md)
     * open function, Reading files, Writing to files, Inplace editing with fileinput
 * [Command line arguments](./Command_line_arguments.md)
     * Known number of arguments, Varying number of arguments, Using program name in code, Command line switches
