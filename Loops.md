@@ -2,7 +2,7 @@
 * [While Loop](#While-Loop)
 * [For Loop](#For-Loop)
 
-### <a name="while"></a>While Loop
+### <a name="While-Loop"></a>While Loop
 * A while loop is used to repeat a block of code multiple times.
 For example, let's say we need to process multiple user inputs, so that each time the user inputs something, the same block of code needs to execute.
 
@@ -40,7 +40,7 @@ while x < 10:
 
   x += 1 
   ```
-  ### Output
+### Output
   ```
   1 is odd
 2 is even
@@ -91,9 +91,8 @@ while i<=5:
     if i==3:
       print("Skipping 3")
       continue
-      ```
+  ```
  ### Output
- ```
  1
 Skipping 2
 3
@@ -101,7 +100,6 @@ Skipping 2
 Breaking
 Finished
 
-```
 * An example use case of continue:
 * An airline ticketing system needs to calculate the total cost for all tickets purchased. The tickets for children under the age of 1 are free. We can use a while loop to iterate through the list of passengers and calculate the total cost of their tickets. Here, the continue statement can be used to skip the children.
 
@@ -123,7 +121,7 @@ eggs!
 ```
 * In the code above, the word variable represents the corresponding item of the list in each iteration of the loop.
 * During the 1st iteration, word is equal to "hello", and during the 2nd iteration it's equal to "world", and so on.
-### for Loops
+### <a name="For-Loop"></a>for Loops
 * The for loop can be used to iterate over strings.
 ### For example:
 ```
