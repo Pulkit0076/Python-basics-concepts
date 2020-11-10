@@ -51,5 +51,4 @@ Introduction to Python - Syntax, working with Shell commands, Files, Text Proces
 * <a href="https://twitter.com/PulkitS25464056" >Twitter</a>
 * <a href="https://github.com/Pulkit0076" >Github<a>
 * <a href="https://www.sololearn.com/Profile/19161584" >Sololearn</a>
-* <a href="https://dev.to/pulkit0076">Dev Community</a>
 * <a href="https://www.youtube.com/channel/UCWvqpm9sTcjgXLkp5Ylro-A/ ?sub_confirmation=1" >YouTube</a>
