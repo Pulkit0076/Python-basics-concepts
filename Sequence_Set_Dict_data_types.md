@@ -1,19 +1,20 @@
 # <a name="sequence-data-types"></a>Sequence, Set and Dict data types
 
 * [Strings](#strings)
-* [Tuples
+* [Tuples](#tuples)
 * [Set](#set)
 * [Dictionary](#dictionary)
 
 We have already seen Sequence types in previous chapters - strings, ranges and lists. Tuple is another sequence type  
-We'll see some more operations on strings followed by Tuple, Set and Dict in this cha
+We'll see some more operations on strings followed by Tuple, Set and Dict in this chapter
 
 <br>
 
 ### <a name="strings"></a>Strings
 
-* The indexing we saw for lists can be applied to strings
+* The indexing we saw for lists can be applied to strings as well
     * As strings are immutable, they can't be modified like lists though
+
 ```python
 >>> book = "Alchemist"
 >>> book[0]
@@ -25,7 +26,7 @@ We'll see some more operations on strings followed by Tuple, Set and Dict in thi
 >>> book[10]
 Traceback (most recent call last):
   File "<stdin>", line 1, in <module>
-IndexError: string index out o
+IndexError: string index out of range
 
 >>> book[2:6]
 'chem'
@@ -420,6 +421,3 @@ Rajan: 79
 
 * [Python docs - dict](https://docs.python.org/3/library/stdtypes.html#dict)
 * [Python docs - pprint](https://docs.python.org/3/library/pprint.html)
-* [detailed tutorial on dict](http://www.sharats.me/posts/the-python-dictionary/)
-* [Using dict to eliminate duplicates while retaining order](https://twitter.com/raymondh/status/9
-
